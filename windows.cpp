@@ -1,5 +1,5 @@
 #include <Windows.h>
-//windows程序入口main函数
+//windows绋嬪簭鍏ュ彛main鍑芥暟
 void Render();
 void Release();
 BOOL CreateD3DObject(HWND hwnd);
